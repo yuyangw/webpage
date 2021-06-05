@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b>Email:<a href="#"> yuyangw@cmu.edu</a></b>
+description: <b>Email:<a href="mailto:yuyangw@cmu.edu"> yuyangw@cmu.edu</a></b>
 # description: <b>PhD Candidate in <a href="#">Mechanical Engieering</a> | MS Student in <a href="#">Machine Learning</a> <BR/><a href="#">Carnegie Mellon University</a>, Pittsburgh, PA 15213, USA <BR/>Email:<a href="#"> yuyangw@cmu.edu</a></b>
 
 profile:
@@ -25,6 +25,7 @@ You can also download my <a href="#">[CV]</a>.
 - Deep Learning
 - Computational Biology
 - Drug Discovery
+- Nanotechnology
 
 <!-- <b>Education: </b>
 - 2019 - Present, Ph.D. in Mechanical Engineering, Carnegie Mellon University

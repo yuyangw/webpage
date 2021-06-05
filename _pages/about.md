@@ -2,23 +2,32 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <b>Email:<a href="#"> yuyangw@cmu.edu</a></b>
+# description: <b>PhD Candidate in <a href="#">Mechanical Engieering</a> | MS Student in <a href="#">Machine Learning</a> <BR/><a href="#">Carnegie Mellon University</a>, Pittsburgh, PA 15213, USA <BR/>Email:<a href="#"> yuyangw@cmu.edu</a></b>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  #   yuyangw AT cmu DOT edu
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in <a href="https://www.meche.engineering.cmu.edu/">Mechanical Engineering</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, under the supervision of Prof. <a href="https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html">Amir Barati Farimani</a>. Meanwhile, I am also pursuing a M.S. in <a href="https://www.ml.cmu.edu/">Machine Learning</a> at CMU. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+You can also download my <a href="#">[CV]</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+<b>Research Interest: </b>
+- Deep Learning
+- Computational Biology
+- Drug Discovery
+
+<!-- <b>Education: </b>
+- 2019 - Present, Ph.D. in Mechanical Engineering, Carnegie Mellon University
+- 2021 - Present, M.S. in Machine Learning, Carnegie Mellon University
+- 2017 - 2019, M.S. in Mechanical Engineering, Carnegie Mellon University
+- 2013 - 2017, B.Eng. in Engineering Mechanics, Tongji University -->

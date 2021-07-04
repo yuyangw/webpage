@@ -17,11 +17,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. candidate in <a href="https://www.meche.engineering.cmu.edu/">Mechanical Engineering</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>
-<!-- , under the supervision of Prof. <a href="https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html">Amir Barati Farimani</a>. I am also pursuing a M.S. in <a href="https://www.ml.cmu.edu/">Machine Learning</a> at CMU <a href="https://www.cs.cmu.edu/">School of Computer Science</a>. Previously, I obtained my B.Eng. from <a href="https://en.tongji.edu.cn/index.htm">Tongji University</a>. I work in Artificial Intelligence at the intersection of Machine Learning and computational biology.
 
-You can also download my <a href="#">[CV]</a>.
+<!-- , under the supervision of Prof. <a href="https://www.meche.engineering.cmu.edu/directory/bios/barati-farimani-amir.html">Amir Barati Farimani</a>. I am also pursuing a M.S. in <a href="https://www.ml.cmu.edu/">Machine Learning</a> at CMU <a href="https://www.cs.cmu.edu/">School of Computer Science</a>. Previously, I obtained my B.Eng. from <a href="https://en.tongji.edu.cn/index.htm">Tongji University</a>. I work in Artificial Intelligence at the intersection of Machine Learning and computational biology. -->
 
-<b>Research Interest: </b>
+<!-- You can also download my <a href="#">[CV]</a>. -->
+
+<!-- <b>Research Interest: </b>
 - Deep Learning
 - Computational Biology
 - Drug Discovery

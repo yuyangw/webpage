@@ -8,28 +8,30 @@ nav: true
 order: 1
 ---
 
+<!-- *authors contributed equally
+
 <article>
   <h1><a href="" title=""></a></h1>
   <img src="../_bibliography/ARPAE2021.jpg" width="200" alt="left" />
-  Yoon, Junwoong, Zhonglin Cao, Rajesh Raju, Yuyang Wang, Robert Burnley, Andrew J. Gellman, Amir Barati Farimani, and Zachary W. Ulissi. "Deep reinforcement learning for predicting kinetic pathways to surface reconstruction in a ternary alloy." Machine Learning: Science and Technology (2021).
+  Junwoong Yoon*, Zhonglin Cao*, Rajesh Raju*, <b>Yuyang Wang</b>, Robert Burnley, Andrew J. Gellman, Amir Barati Farimani, and Zachary W. Ulissi. "Deep reinforcement learning for predicting kinetic pathways to surface reconstruction in a ternary alloy." Machine Learning: Science and Technology (2021).
 </article>
 
 
 <article>
   <h1><a href="" title=""></a></h1>
   <img src="../_bibliography/grapheneRL2021.gif" width="200" alt="left" />
-  sfsdfsfsddsd
+  <b>Yuyang Wang*</b>, Zhonglin Cao*, and Amir Barati Farimani. "Efficient water desalination with graphene nanopores obtained using artificial intelligence." npj 2D Materials and Applications 5, no. 1 (2021): 1-9.
 </article>
 
 <article>
   <h1><a href="" title=""></a></h1>
   <img src="../_bibliography/MolCLR2021.jpg" width="200" alt="left" />
-  sfsdfsfsddsd
+  <b>Yuyang Wang</b>, Jianren Wang, Zhonglin Cao, and Amir Barati Farimani. "MolCLR: Molecular contrastive learning of representations via graph neural networks." arXiv preprint arXiv:2102.10056 (2021).
 </article>
 
 <article>
   <h1><a href="" title=""></a></h1>
   <img src="../assets/img/1.jpg" width="200" alt="left" />
   sfsdfsfsddsd
-</article>
+</article> -->
 

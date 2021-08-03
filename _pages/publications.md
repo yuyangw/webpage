@@ -8,11 +8,28 @@ nav: true
 order: 1
 ---
 
-<div class="publications">
+<article>
+  <h1><a href="" title=""></a></h1>
+  <img src="../_bibliography/ARPAE2021.jpg" width="200" alt="left" />
+  Yoon, Junwoong, Zhonglin Cao, Rajesh Raju, Yuyang Wang, Robert Burnley, Andrew J. Gellman, Amir Barati Farimani, and Zachary W. Ulissi. "Deep reinforcement learning for predicting kinetic pathways to surface reconstruction in a ternary alloy." Machine Learning: Science and Technology (2021).
+</article>
 
-{% for y in page.years %}
-  <!-- <h2 class="year">{{y}}</h2> -->
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
 
-</div>
+<article>
+  <h1><a href="" title=""></a></h1>
+  <img src="../_bibliography/grapheneRL2021.gif" width="200" alt="left" />
+  sfsdfsfsddsd
+</article>
+
+<article>
+  <h1><a href="" title=""></a></h1>
+  <img src="../_bibliography/MolCLR2021.jpg" width="200" alt="left" />
+  sfsdfsfsddsd
+</article>
+
+<article>
+  <h1><a href="" title=""></a></h1>
+  <img src="../assets/img/1.jpg" width="200" alt="left" />
+  sfsdfsfsddsd
+</article>
+
